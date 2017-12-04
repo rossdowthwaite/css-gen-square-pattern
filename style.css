@@ -1,0 +1,30 @@
+#canvas {
+  background-color: #555559;
+  position: absolute;
+  top:0px;
+  left:0px;
+}
+
+.controls {
+  position: absolute;
+  width: 300px;
+  padding: 15px;
+  background-color: rgba(59, 59, 59, 0.5);
+}
+
+.rangeLabels {
+  color: #FFF;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+.rangeInputs {
+  width: 100%;
+}
+
+input[type=range] {
+  height: 26px;
+  -webkit-appearance: none;
+  margin: 10px 0;
+  width: 100%;
+}
