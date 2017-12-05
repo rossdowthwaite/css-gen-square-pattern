@@ -17,6 +17,6 @@ Open index.html in a browser. Refresh page for a new pattern ;)
 * The incredible power of human creative ingenuity
 
 ## Contributors
-### Devlopment
+### Development
 
 * Ross Dowthwaite
